@@ -1,6 +1,7 @@
 # Portfolio
 
-Welcome to my portfolio The following projects are my favourite works and include a variety of personal projects and university work
+Welcome to my portfolio.
+The following projects are my favourite works and include a variety of personal projects and university work
 
 ## Consent Detective
 Consent Detective is my latest group project I completed at university
