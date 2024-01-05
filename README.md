@@ -16,7 +16,7 @@ The source code for this project can be found at: https://github.com/Jet5001/Que
 RunnerMod is a mod I am currently developing for Slay the Spire which will include a new character, at least 75 new cards and several other miscellaneous additions. The mod has not been in development for long but already includes 16 cards and several supporting mechanics. The mod builds off of the BaseMod built by DavisCook477 and BasicMod built by Alchyr.
 The mod can be found at: https://github.com/Jet5001/RunnerMod
 
-![RunnerModScreenshot](/Images/RunnerMod.png)
+![RunnerModScreenshot](/Assets/Images/RunnerMod.png)
 
 ## Anime Image generator
 As a project to learn the Pytorch Python library I decided to build a DCGAN image generation network as an introduction to machine learning in python and generative AI as a whole. The network was trained on a dataset of images scraped from Danbooru in 2020. These were then downscaled to a resolution of 64x64 so that my local machine could train the network in a reasonable time period. After training, the network could produce serviceable 64x64 images a selection of which can be found below.
