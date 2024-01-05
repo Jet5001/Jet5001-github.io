@@ -1,17 +1,18 @@
 # Portfolio
 
 Welcome to my portfolio.
-The following projects are my favourite works and include a variety of personal projects and university work
+
+The following projects are my favourite works and include a variety of personal projects and university work.
 
 ## Consent Detective
-Consent Detective is my latest group project I completed at university
+Consent Detective is my latest group project which I completed at university.
 For this project I took the lead on development designing and implementing the VR framework including interactions and affordances using Unity's XR toolkit.
 I also implemented the dialogue trees using a Dialogue Editor package in unity along with implementing a dynamic pronoun switching system used to mitigate gender biases when playing the game
 
 [![ConsentDetectiveDemo](http://img.youtube.com/vi/m_3OjZrgXoE/0.jpg)](http://www.youtube.com/watch?v=m_3OjZrgXoE "Consent Detective Scenario 1")
 
 ## Quest Plotter
-Quest plotter is a tool I created for my 3rd year university project designed to aid in the design and development of quests and narratives in video games
+Quest plotter is a tool I created for my 3rd year university project designed to aid in the design and development of quests and narratives in video games.
 The system used to model quests was designed from the ground up after extensive research and mimics the nature of paper prototyping and whiteboards while still retaining the convenience of easily shareable and editable digital files. The code for the editor interface was built from scratch using python's Tkinter library. I also ran a study to evaluate the effectiveness of the system and I received positive feedback throughout, and some participants requested I continue the project beyond its original scope.
 
 The source code for this project can be found at: https://github.com/Jet5001/QuestPlotter
@@ -29,6 +30,7 @@ The mod can be found at: https://github.com/Jet5001/RunnerMod
 As a project to learn the Pytorch Python library I decided to build a DCGAN image generation network as an introduction to machine learning in python and generative AI as a whole. The network was trained on a dataset of images scraped from Danbooru in 2020. These were then downscaled to a resolution of 64x64 so that my local machine could train the network in a reasonable time period. After training, the network could produce serviceable 64x64 images a selection of which can be found below.
 
 The code for this can be found at: https://github.com/Jet5001/AnimeDCGAN
+![GeneratedAnimeImages](/Assets/Images/GeneratedImages.png)
 
 ## Platformer Game
 Within this group coursework I created a pixel platformer using LibGDX. In this project I completed most of the implementation including the character controller, gameplay mechanics, enemy logic and the underlying engine using the inbuilt physics and rendering systems. The game did not get past the prototype stage due to cuts in our group throughout the project leaving only a small team. Despite this the prototype was still fun to play and was a great learning experience. The game also included a novel movement option which we named the pogo mechanic. This allows the player to click in a spot away from the character and propel themselves away from that point. This allowed for some very interesting platforming challenges and wide variety in pathing options.
