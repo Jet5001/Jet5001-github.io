@@ -8,7 +8,7 @@ For this project I took the lead on development designing and implementing the V
 I also implemented the dialogue trees using a Dialogue Editor package in unity along with implementing a dynamic pronoun switching system used to mitigate gender biases when playing the game
 
 
-![https://www.youtube.com/embed/tgbNymZ7vqY](https://youtu.be/m_3OjZrgXoE)"
+![https://www.youtube.com/embed/tgbNymZ7vqY](https://youtu.be/m_3OjZrgXoE)
 
 ## Quest Plotter
 Quest plotter is a tool I created for my 3rd year university project designed to aid in the design and development of quests and narratives in video games
