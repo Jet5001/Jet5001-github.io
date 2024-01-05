@@ -15,21 +15,21 @@ I also implemented the dialogue trees using a Dialogue Editor package in unity a
 Quest plotter is a tool I created for my 3rd year university project designed to aid in the design and development of quests and narratives in video games.
 The system used to model quests was designed from the ground up after extensive research and mimics the nature of paper prototyping and whiteboards while still retaining the convenience of easily shareable and editable digital files. The code for the editor interface was built from scratch using python's Tkinter library. I also ran a study to evaluate the effectiveness of the system and I received positive feedback throughout, and some participants requested I continue the project beyond its original scope.
 
-The source code for this project can be found at: https://github.com/Jet5001/QuestPlotter
+The source code for this project can be found at: [https://github.com/Jet5001/QuestPlotter](https://github.com/Jet5001/QuestPlotter)
 
 [![QuestPlotterDemo](http://img.youtube.com/vi/JmZ5pyrpeVo/0.jpg)](http://www.youtube.com/watch?v=JmZ5pyrpeVo "Quest Plotter Demo")
 
 ## RunnerMod
 RunnerMod is a mod I am currently developing for Slay the Spire which will include a new character, at least 75 new cards and several other miscellaneous additions. The mod has not been in development for long but already includes 16 cards and several supporting mechanics. The mod builds off of the BaseMod built by DavisCook477 and BasicMod built by Alchyr.
 
-The mod can be found at: https://github.com/Jet5001/RunnerMod
+The mod can be found at: [https://github.com/Jet5001/RunnerMod](https://github.com/Jet5001/RunnerMod)
 
 ![RunnerModScreenshot](/Assets/Images/RunnerMod.png)
 
 ## Anime Image generator
 As a project to learn the Pytorch Python library I decided to build a DCGAN image generation network as an introduction to machine learning in python and generative AI as a whole. The network was trained on a dataset of images scraped from Danbooru in 2020. These were then downscaled to a resolution of 64x64 so that my local machine could train the network in a reasonable time period. After training, the network could produce serviceable 64x64 images a selection of which can be found below.
 
-The code for this can be found at: https://github.com/Jet5001/AnimeDCGAN
+The code for this can be found at: [https://github.com/Jet5001/AnimeDCGAN](https://github.com/Jet5001/AnimeDCGAN)
 ![GeneratedAnimeImages](/Assets/Images/GeneratedImages.png)
 
 ## Platformer Game
