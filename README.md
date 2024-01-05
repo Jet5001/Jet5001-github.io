@@ -1,6 +1,4 @@
-# Portfolio
-
-Welcome to my portfolio.
+Welcome to my portfolio
 
 The following projects are my favourite works and include a variety of personal projects and university work.
 
