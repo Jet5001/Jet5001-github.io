@@ -15,6 +15,8 @@ The system used to model quests was designed from the ground up after extensive 
 
 The source code for this project can be found at: https://github.com/Jet5001/QuestPlotter
 
+[![QuestPlotterDemo](http://img.youtube.com/vi/JmZ5pyrpeVo/0.jpg)](http://www.youtube.com/watch?v=JmZ5pyrpeVo "Quest Plotter Demo")
+
 ## RunnerMod
 RunnerMod is a mod I am currently developing for Slay the Spire which will include a new character, at least 75 new cards and several other miscellaneous additions. The mod has not been in development for long but already includes 16 cards and several supporting mechanics. The mod builds off of the BaseMod built by DavisCook477 and BasicMod built by Alchyr.
 
@@ -29,6 +31,8 @@ The code for this can be found at: https://github.com/Jet5001/AnimeDCGAN
 
 ## Platformer Game
 Within this group coursework I created a pixel platformer using LibGDX. In this project I completed most of the implementation including the character controller, gameplay mechanics, enemy logic and the underlying engine using the inbuilt physics and rendering systems. The game did not get past the prototype stage due to cuts in our group throughout the project leaving only a small team. Despite this the prototype was still fun to play and was a great learning experience. The game also included a novel movement option which we named the pogo mechanic. This allows the player to click in a spot away from the character and propel themselves away from that point. This allowed for some very interesting platforming challenges and wide variety in pathing options.
+
+[![PogoPlatformerMiniDemo](http://img.youtube.com/vi/KNkQrM1zvbw/0.jpg)](http://www.youtube.com/watch?v=KNkQrM1zvbw "Pogo Platformer Mini Demo")
 
 ## Miscellaneous Coursework
 In this section I provide a summary of some of my more interesting coursework projects that do not have an easy visual representation to present.
