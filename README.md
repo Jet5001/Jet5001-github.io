@@ -6,12 +6,14 @@ The following projects are my favourite works and include a variety of personal 
 Consent Detective is my latest group project which I completed at university.
 For this project I took the lead on development designing and implementing the VR framework including interactions and affordances using Unity's XR toolkit.
 I also implemented the dialogue trees using a Dialogue Editor package in unity along with implementing a dynamic pronoun switching system used to mitigate gender biases when playing the game
+To see a playthough of the first scenario view the video below
 
 [![ConsentDetectiveDemo](http://img.youtube.com/vi/m_3OjZrgXoE/0.jpg)](http://www.youtube.com/watch?v=m_3OjZrgXoE "Consent Detective Scenario 1")
 
 ## Quest Plotter
 Quest plotter is a tool I created for my 3rd year university project designed to aid in the design and development of quests and narratives in video games.
 The system used to model quests was designed from the ground up after extensive research and mimics the nature of paper prototyping and whiteboards while still retaining the convenience of easily shareable and editable digital files. The code for the editor interface was built from scratch using python's Tkinter library. I also ran a study to evaluate the effectiveness of the system and I received positive feedback throughout, and some participants requested I continue the project beyond its original scope.
+For a demonstration on how to use the tool see the video below
 
 The source code for this project can be found at: [https://github.com/Jet5001/QuestPlotter](https://github.com/Jet5001/QuestPlotter)
 
