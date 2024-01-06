@@ -18,6 +18,7 @@ The system used to model quests was designed from the ground up after extensive 
 For a demonstration on how to use the tool see the video below
 
 [![QuestPlotterDemo](http://img.youtube.com/vi/JmZ5pyrpeVo/0.jpg)](http://www.youtube.com/watch?v=JmZ5pyrpeVo "Quest Plotter Demo")
+
 The source code for this project can be found at: [https://github.com/Jet5001/QuestPlotter](https://github.com/Jet5001/QuestPlotter)
 
 ## RunnerMod
