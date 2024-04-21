@@ -26,7 +26,7 @@ RunnerMod is a mod I am currently developing for Slay the Spire which will inclu
 
 The mod can be found at: [https://github.com/Jet5001/RunnerMod](https://github.com/Jet5001/RunnerMod)
 
-![RunnerModScreenshot](/Assets/Images/RunnerMod.png)
+![RunnerModScreenshot](/Assets/Images/RunnerMod2.png)
 
 ## Anime Image generator
 As a project to learn the Pytorch Python library I decided to build a DCGAN image generation network as an introduction to machine learning in python and generative AI as a whole. The network was trained on a dataset of images scraped from Danbooru in 2020. These were then downscaled to a resolution of 64x64 so that my local machine could train the network in a reasonable time period. After training, the network could produce serviceable 64x64 images a selection of which can be found below.
