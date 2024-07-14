@@ -11,6 +11,14 @@ To see a playthough of the first scenario view the video below
 
 [![ConsentDetectiveDemo](http://img.youtube.com/vi/m_3OjZrgXoE/0.jpg)](http://www.youtube.com/watch?v=m_3OjZrgXoE "Consent Detective Scenario 1")
 
+
+## RunnerMod
+RunnerMod is a mod I am currently developing for Slay the Spire which will include a new character, at least 75 new cards and several other miscellaneous additions. The mod has not been in development for long but already includes 70 cards and several complex supporting mechanics. The mod builds off of the BaseMod built by DavisCook477 and BasicMod built by Alchyr.
+
+The mod can be found at: [https://github.com/Jet5001/RunnerMod](https://github.com/Jet5001/RunnerMod)
+
+![RunnerModScreenshot](/Assets/Images/RunnerMod2.png)
+
 ## Quest Plotter
 Quest plotter is a tool I created for my 3rd year university project designed to aid in the design and development of quests and narratives in video games.
 The system used to model quests was designed from the ground up after extensive research and mimics the nature of paper prototyping and whiteboards while still retaining the convenience of easily shareable and editable digital files. The code for the editor interface was built from scratch using python's Tkinter library. I also ran a study to evaluate the effectiveness of the system and I received positive feedback throughout, and some participants requested I continue the project beyond its original scope.
@@ -21,12 +29,13 @@ For a demonstration on how to use the tool see the video below
 
 The source code for this project can be found at: [https://github.com/Jet5001/QuestPlotter](https://github.com/Jet5001/QuestPlotter)
 
-## RunnerMod
-RunnerMod is a mod I am currently developing for Slay the Spire which will include a new character, at least 75 new cards and several other miscellaneous additions. The mod has not been in development for long but already includes 70 cards and several complex supporting mechanics. The mod builds off of the BaseMod built by DavisCook477 and BasicMod built by Alchyr.
+## AI Character Creator
+As part of my Masters Degree I spent 6 months working with the TICTAC group at Lancaster University developing an AI powered character creation tool designed to help combat harmful gender stereotypes in children. This tool allows the user to select a variety of desciriptors for a character and a stable diffusion instance will generate a visual depiction of their character. I developed a majority of the backend of this project while the frontend development was handled by a colleague. Beyond just development skills this project also required extensive knowledge and research into the roles characters play in media. This project also resulted in a publication for the IDC 2024 conference.
 
-The mod can be found at: [https://github.com/Jet5001/RunnerMod](https://github.com/Jet5001/RunnerMod)
+The publication can be found at: [https://dl.acm.org/doi/proceedings/10.1145/3628516](https://dl.acm.org/doi/proceedings/10.1145/3628516)
 
-![RunnerModScreenshot](/Assets/Images/RunnerMod2.png)
+![AICharacterCreatorScreenshot]()
+
 
 ## Anime Image generator
 As a project to learn the Pytorch Python library I decided to build a DCGAN image generation network as an introduction to machine learning in python and generative AI as a whole. The network was trained on a dataset of images scraped from Danbooru in 2020. These were then downscaled to a resolution of 64x64 so that my local machine could train the network in a reasonable time period. After training, the network could produce serviceable 64x64 images a selection of which can be found below.
