@@ -34,7 +34,7 @@ As part of my Masters Degree I spent 6 months working with the TICTAC group at L
 
 The publication can be found at: [https://dl.acm.org/doi/proceedings/10.1145/3628516](https://dl.acm.org/doi/proceedings/10.1145/3628516)
 
-![AICharacterCreatorScreenshot]()
+![AICharacterCreatorScreenshot](Assets/Images/AICharacterCreatorImg.png)
 
 
 ## Anime Image generator
