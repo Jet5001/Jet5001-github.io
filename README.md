@@ -22,6 +22,9 @@ The mod can be found at: [https://github.com/Jet5001/RunnerMod](https://github.c
 ## Chimera Gardens
 Chimera Gardens is a creature collector game in the vein of pokemon I am currently developing. Each creature is composed of multiple parts which can be combigned dynamically to create a variety of chimeras to fight with. Each part has an associated image, move, type and stat bonuses that can be combigned to customise any creature. It is being developed from scratch using Godot focussing on the core combat and chimera systems currently.
 
+The current game can be found at: [https://github.com/Jet5001/ChimeraGardens](https://github.com/Jet5001/ChimeraGardens)
+![ChimeraGardensScreenshot](/Assets/Images/ChimeraGardensScreenshot.png)
+
 ## Quest Plotter
 Quest plotter is a tool I created for my 3rd year university project designed to aid in the design and development of quests and narratives in video games.
 The system used to model quests was designed from the ground up after extensive research and mimics the nature of paper prototyping and whiteboards while still retaining the convenience of easily shareable and editable digital files. The code for the editor interface was built from scratch using python's Tkinter library. I also ran a study to evaluate the effectiveness of the system and I received positive feedback throughout, and some participants requested I continue the project beyond its original scope.
