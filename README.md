@@ -13,7 +13,7 @@ To see a playthough of the first scenario view the video below
 
 
 ## RunnerMod
-RunnerMod is a mod I am currently developing for Slay the Spire which will include a new character, at least 75 new cards and several other miscellaneous additions. The mod has not been in development for long but already includes 70 cards and several complex supporting mechanics. The mod builds off of the BaseMod built by DavisCook477 and BasicMod built by Alchyr.
+RunnerMod is a mod I am currently developing for Slay the Spire which will include a new character. The mod has been in development for approximately 9 months and is nearing completion it currently. It includes over 75 cards, 9 relics and a brand new equipment system. The mod builds off of the BaseMod built by DavisCook477 and BasicMod built by Alchyr.
 
 The mod can be found at: [https://github.com/Jet5001/RunnerMod](https://github.com/Jet5001/RunnerMod)
 
