@@ -6,6 +6,7 @@ The following projects are my favourite works and include a variety of personal 
 Consent Detective is my latest group project which I completed at university.
 For this project I took the lead on development designing and implementing the VR framework including interactions and affordances using Unity's XR toolkit.
 I also implemented the dialogue trees using a Dialogue Editor package in unity along with implementing a dynamic pronoun switching system used to mitigate gender biases when playing the game.
+The project has also been used as the basis for a published research paper which can be found at [https://www.mdpi.com/2813-2084/3/3/19](https://www.mdpi.com/2813-2084/3/3/19)
 
 To see a playthough of the first scenario view the video below
 
